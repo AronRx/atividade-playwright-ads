@@ -1,0 +1,22 @@
+{
+  "name": "atividade-playwright-ads",
+  "version": "1.0.0",
+  "description": "Atividade prática de automação de testes com Playwright (ADS) - Automation Exercise TC01 a TC10",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "automacao-de-testes"
+  ],
+  "author": "Kaio Erick Barros de Vasconcelos, Guilherme Aron de Jesus Teixeira",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}

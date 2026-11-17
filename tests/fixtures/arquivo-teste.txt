@@ -1,0 +1,2 @@
+Arquivo de teste para o upload do formulario Contact Us (TC06).
+Conteudo ficticio, usado apenas na atividade de automacao com Playwright.

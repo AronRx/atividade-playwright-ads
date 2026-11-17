@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Resultados e relatórios do Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Variáveis de ambiente e arquivos do sistema
+.env
+.DS_Store
+Thumbs.db
+
+# Diagnóstico temporário
+/diagnostico/
