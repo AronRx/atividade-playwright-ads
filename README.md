@@ -18,7 +18,7 @@ Disciplina: Teste e Qualidade de Software
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/atividade-playwright-ads.git
+git clone https://github.com/AronRx/atividade-playwright-ads.git
 cd atividade-playwright-ads
 npm install
 npx playwright install chromium
